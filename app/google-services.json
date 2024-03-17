@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "639592392195",
+    "project_id": "cegap-42479",
+    "storage_bucket": "cegap-42479.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639592392195:android:668bf2faf9ed459b0d1036",
+        "android_client_info": {
+          "package_name": "id.pkm.cegap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIFdC85ouVXFTMSCVVixK0ZkObS3JvnZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
