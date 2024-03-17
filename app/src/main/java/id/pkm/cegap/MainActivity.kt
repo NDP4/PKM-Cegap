@@ -17,19 +17,19 @@ class MainActivity : AppCompatActivity() {
     private val introSliderAdapter = IntroSliderAdapter(
         listOf(
             IntroSlide(
-                "Keamanan",
-                "lorem lorem lorem",
-                R.drawable.loveilus
+                "Bersama kita ciptakan lingkungan yang aman.",
+                "Mulailah dengan langkah kecil hari ini.",
+                R.drawable.massageonboarding
             ),
             IntroSlide(
-                "kesehatan",
-                "deskripsi deskripsi",
-                R.drawable.loveilus
+                "Lapor kejadian kriminalitas atau kesehatan langsung dari ponsel Anda!",
+                "Dapatkan bantuan dengan cepat dan tanpa ribet.",
+                R.drawable.kemananonboarding
             ),
             IntroSlide(
-                "mulai sekarang",
-                "siap siap siap siap",
-                R.drawable.loveilus
+                "Kami peduli pada keselamatan Anda.",
+                "Manfaatkan aplikasi ini untuk kesehatan Anda.",
+                R.drawable.kolaborasionboarding
             )
         )
     )
